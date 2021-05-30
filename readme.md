@@ -70,6 +70,14 @@ Non-admin login
 }
 ```
 
+(Stripe) Card Payment Details [For USD]
+
+```
+4000 0027 6000 3184
+03/33
+333
+```
+
 ![](./screen-caps/01Homepage.jpeg)
 ![](./screen-caps/02RegistrationPage.jpeg)
 ![](./screen-caps/03LoginPage.jpeg)
