@@ -178,6 +178,12 @@ footer {
   margin-left: 0.3rem;
 }
 
+#quantity_status {
+  font-size: 1.1rem;
+  font-weight: bold;
+  margin-left: 0.3rem;
+}
+
 .redColor {
   color: red;
 }
