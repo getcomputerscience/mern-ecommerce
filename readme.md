@@ -1,8 +1,8 @@
 ## Usage
 
-- Create a .env file in the respective root directories of the project.
+- Create a .env file inside backend/config.
 
-- Copy the following lines and specify appropriate values to corresponding lines.
+- Copy the following lines and specify appropriate values.
 
 ```
 PORT = 4000
@@ -69,3 +69,24 @@ Non-admin login
     "password": "123456"
 }
 ```
+
+![](./screen-caps/01Homepage.jpeg)
+![](./screen-caps/02RegistrationPage.jpeg)
+![](./screen-caps/03LoginPage.jpeg)
+![](./screen-caps/04CartPage.jpeg)
+![](./screen-caps/05ShippingScreen.jpeg)
+![](./screen-caps/06OrderConfirmationScreen.jpeg)
+![](./screen-caps/07PaymentDetailsScreen.jpeg)
+![](./screen-caps/08SuccessfulOrder.jpeg)
+![](./screen-caps/09OrderDashboard.jpeg)
+![](./screen-caps/10OrderDetailsPage.jpeg)
+![](./screen-caps/11ProductDetails.jpeg)
+![](./screen-caps/12ProfilePage.jpeg)
+![](./screen-caps/13UpdateProfilePage.jpeg)
+![](./screen-caps/14AdminDashboard.jpeg)
+![](./screen-caps/15ProductManagementDashboard.jpeg)
+![](./screen-caps/16OrderManagementDashboard.jpeg)
+![](./screen-caps/17UserManagementDashboard.jpeg)
+![](./screen-caps/18ReviewManagementDashboard.jpeg)
+![](./screen-caps/19AddProductPage.jpeg)
+![](./screen-caps/20UpdateProductPage.jpeg)
